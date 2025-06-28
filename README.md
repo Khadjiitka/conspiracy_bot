@@ -10,6 +10,7 @@ The user selects a category and receives a brief or detailed description_ <br>
 - 💬 Commands: /start, /seelist <br>
 📷 Screenshots:
 <br>
-![image](https://github.com/Khadjiitka/conspiracy_bot/blob/e6c92373b9ec035593fa5fcdaf624a3e2fe8d4ea/Scrin/startScr.jpg) <br> 
-![image](https://github.com/Khadjiitka/conspiracy_bot/blob/e6c92373b9ec035593fa5fcdaf624a3e2fe8d4ea/Scrin/scr0.png) <br> 
-![image](https://github.com/Khadjiitka/conspiracy_bot/blob/e6c92373b9ec035593fa5fcdaf624a3e2fe8d4ea/Scrin/scr1.png)
+![image](![image](https://raw.githubusercontent.com/Khadjiitka/conspiracy_bot/e6c92373b9ec035593fa5fcdaf624a3e2fe8d4ea/Scrin/startScr.jpg)
+) <br> 
+![image](![image](https://raw.githubusercontent.com/Khadjiitka/conspiracy_bot/e6c92373b9ec035593fa5fcdaf624a3e2fe8d4ea/Scrin/scr0.png) <br> 
+![image](![image](https://raw.githubusercontent.com/Khadjiitka/conspiracy_bot/e6c92373b9ec035593fa5fcdaf624a3e2fe8d4ea/Scrin/scr1.png)
