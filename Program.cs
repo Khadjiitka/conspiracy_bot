@@ -15,8 +15,8 @@ namespace Conspirolog_bot
 {
     internal class Program //internal — доступен только в пределах сборки
     {
-        // private static string token { get; set; } = "7584611649:AAHDL1uHOQTjd_pJ0aMAQ1itTHNQdiItNKc";
-        private static readonly string token = "7584611649:AAHDL1uHOQTjd_pJ0aMAQ1itTHNQdiItNKc";
+        // private static string token { get; set; } = "your-telegram-token-here";
+        private static readonly string token = "your-telegram-token-here";
         private static TelegramBotClient bot;
 
         //категории
